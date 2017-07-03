@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Headers/WPClipCommon.h</key>
+		<data>
+		cC2mwt/v1ozIQSTNs3GaaxqIprU=
+		</data>
 		<key>Headers/WPClipView.h</key>
 		<data>
 		Dg4ndYwgg12u0osGOCtQghTagB4=
@@ -19,6 +23,17 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Headers/WPClipCommon.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			cC2mwt/v1ozIQSTNs3GaaxqIprU=
+			</data>
+			<key>hash2</key>
+			<data>
+			D1SfCcrgbWzgm33YZ42XVSdnCD93rHMJ+w9vUK0/xDM=
+			</data>
+		</dict>
 		<key>Headers/WPClipView.h</key>
 		<dict>
 			<key>hash</key>
