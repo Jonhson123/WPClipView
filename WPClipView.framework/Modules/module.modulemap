@@ -1,0 +1,6 @@
+framework module WPClipView {
+  umbrella header "WPClipView.h"
+
+  export *
+  module * { export * }
+}
