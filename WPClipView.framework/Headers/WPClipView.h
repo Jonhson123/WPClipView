@@ -33,7 +33,9 @@
 @property (assign, nonatomic) CGFloat minSpace;
 
 @property (strong, nonatomic) NSArray *areas;
-@property (strong, nonatomic) UIColor *pointAreaColor;
+@property (strong, nonatomic) UIColor *areaLineColor;
+@property (strong, nonatomic) UIColor *areaFillColor;
+@property (strong, nonatomic) UIColor *areaSelectedColor;
 @property (assign, nonatomic) BOOL hiddenArea;
 
 @property (strong, nonatomic) NSArray *points;

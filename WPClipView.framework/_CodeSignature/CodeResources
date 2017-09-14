@@ -6,11 +6,11 @@
 	<dict>
 		<key>Headers/WPClipCommon.h</key>
 		<data>
-		cC2mwt/v1ozIQSTNs3GaaxqIprU=
+		EQWpQTm0sfrQu1aJ+QdgZBOL2i8=
 		</data>
 		<key>Headers/WPClipView.h</key>
 		<data>
-		Dg4ndYwgg12u0osGOCtQghTagB4=
+		8TlaKgU9BfKugNdH2IvG2GUbJR4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -23,22 +23,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cC2mwt/v1ozIQSTNs3GaaxqIprU=
+			EQWpQTm0sfrQu1aJ+QdgZBOL2i8=
 			</data>
 			<key>hash2</key>
 			<data>
-			D1SfCcrgbWzgm33YZ42XVSdnCD93rHMJ+w9vUK0/xDM=
+			mpj95S5HnoPQk+vzGAHuW7rEP/lqohs9VKXDnWICcDk=
 			</data>
 		</dict>
 		<key>Headers/WPClipView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Dg4ndYwgg12u0osGOCtQghTagB4=
+			8TlaKgU9BfKugNdH2IvG2GUbJR4=
 			</data>
 			<key>hash2</key>
 			<data>
-			QMDOqXv5XmknFVbb4Rmt/eWFQFBv0qSqez8BbSXuF8k=
+			UiKq+F1UizBBnJIN62QK5vwWUMdZa8xbrK+xfLTJFTU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -70,6 +70,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^version.plist$</key>
 		<true/>
@@ -115,6 +120,11 @@
 			<true/>
 			<key>weight</key>
 			<real>1100</real>
+		</dict>
+		<key>^Base\.lproj/</key>
+		<dict>
+			<key>weight</key>
+			<real>1010</real>
 		</dict>
 		<key>^Info\.plist$</key>
 		<dict>

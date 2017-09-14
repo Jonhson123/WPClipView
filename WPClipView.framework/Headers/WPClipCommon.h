@@ -22,6 +22,8 @@
 #define WPPointView_RADIUS 10
 #define WPPointView_LINEWIDTH 5
 
+#define WPAreaView_WIDTH 5
+
 typedef NS_ENUM(NSInteger , WPClipCornerPosition) {
     WPClipCornerPositionTopLeft,
     WPClipCornerPositionTopRight,
