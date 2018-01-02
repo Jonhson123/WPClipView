@@ -12,6 +12,10 @@
 		<data>
 		8TlaKgU9BfKugNdH2IvG2GUbJR4=
 		</data>
+		<key>Headers/WPPopView.h</key>
+		<data>
+		AyA76anuGHL+eP5ytVLeB6Novdc=
+		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
 		vvAWRdWUnfYtntPDgsbLSFiRI/U=
@@ -39,6 +43,17 @@
 			<key>hash2</key>
 			<data>
 			UiKq+F1UizBBnJIN62QK5vwWUMdZa8xbrK+xfLTJFTU=
+			</data>
+		</dict>
+		<key>Headers/WPPopView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AyA76anuGHL+eP5ytVLeB6Novdc=
+			</data>
+			<key>hash2</key>
+			<data>
+			rEEzhCmW6agfeEtzkEO7KqNm1ZWQxJ+wHvMl1/Vmh7I=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
