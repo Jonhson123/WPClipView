@@ -22,4 +22,3 @@
 @property (nonatomic, copy) void(^pointSelected)(WPPointView *pointView);
 
 @end
-

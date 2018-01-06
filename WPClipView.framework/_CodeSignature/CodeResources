@@ -12,9 +12,13 @@
 		<data>
 		8TlaKgU9BfKugNdH2IvG2GUbJR4=
 		</data>
+		<key>Headers/WPPointView.h</key>
+		<data>
+		6Y8g8tfkcZgLVLonu/Qew9sJK24=
+		</data>
 		<key>Headers/WPPopView.h</key>
 		<data>
-		TrMsTW4pFuV+AwPdLqCyW73bwMc=
+		dCNu9e4A5u4DAYOCdDZ5jpTs4fI=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -45,15 +49,26 @@
 			UiKq+F1UizBBnJIN62QK5vwWUMdZa8xbrK+xfLTJFTU=
 			</data>
 		</dict>
+		<key>Headers/WPPointView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6Y8g8tfkcZgLVLonu/Qew9sJK24=
+			</data>
+			<key>hash2</key>
+			<data>
+			MIfi8RAqEKy3Y6Z3dk+bL2jT/HXrMx2TCslm29vJDRs=
+			</data>
+		</dict>
 		<key>Headers/WPPopView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			TrMsTW4pFuV+AwPdLqCyW73bwMc=
+			dCNu9e4A5u4DAYOCdDZ5jpTs4fI=
 			</data>
 			<key>hash2</key>
 			<data>
-			XHZSd5IN+By+2TJ6eo2thumQn6/pkDDcQzk6my2zQic=
+			nSvkyHm+U1AF+hYGAJM/FOOYAnEih+huVWYfuEMF3Rk=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
