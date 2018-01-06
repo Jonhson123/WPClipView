@@ -8,6 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "WPClipCommon.h"
+#import "WPPointView.h"
 
 @interface WPPopView : UIView
 
@@ -18,6 +19,7 @@
 @property (strong, nonatomic) UIColor *pointFillColor;
 @property (strong, nonatomic) UIColor *pointSelectedColor;
 
-@property (nonatomic, copy) void(^pointSelected)(id selectedData);
+@property (nonatomic, copy) void(^pointSelected)(WPPointView *pointView);
 
 @end
+
