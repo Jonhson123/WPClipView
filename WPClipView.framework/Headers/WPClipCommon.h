@@ -19,7 +19,8 @@
 #define WPLineView_WIDTH 44
 #define WPLineView_HEIGHT 44
 
-#define WPPointView_RADIUS 8
+#define WPPointView_RADIUS 16
+#define WPPointView_PointRADIUS 8
 #define WPPointView_LINEWIDTH 4
 
 #define WPAreaView_WIDTH 4

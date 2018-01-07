@@ -6,15 +6,11 @@
 	<dict>
 		<key>Headers/WPClipCommon.h</key>
 		<data>
-		8Y4K0ldI+S7stJ8BQDPySxaZdUk=
+		BlCy6dJZS1Geh3mDOQgLoa4nGJw=
 		</data>
 		<key>Headers/WPClipView.h</key>
 		<data>
 		8TlaKgU9BfKugNdH2IvG2GUbJR4=
-		</data>
-		<key>Headers/WPPointView.h</key>
-		<data>
-		6Y8g8tfkcZgLVLonu/Qew9sJK24=
 		</data>
 		<key>Headers/WPPopView.h</key>
 		<data>
@@ -31,11 +27,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8Y4K0ldI+S7stJ8BQDPySxaZdUk=
+			BlCy6dJZS1Geh3mDOQgLoa4nGJw=
 			</data>
 			<key>hash2</key>
 			<data>
-			No+kyYXIqg2y/GzO+BeGdKhXLZtgV7O9nXrxF047Rhc=
+			F/MVOW+ROWIUGkGLfGCe8SgAdtsy8tOQyIRY2SAECnE=
 			</data>
 		</dict>
 		<key>Headers/WPClipView.h</key>
@@ -47,17 +43,6 @@
 			<key>hash2</key>
 			<data>
 			UiKq+F1UizBBnJIN62QK5vwWUMdZa8xbrK+xfLTJFTU=
-			</data>
-		</dict>
-		<key>Headers/WPPointView.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			6Y8g8tfkcZgLVLonu/Qew9sJK24=
-			</data>
-			<key>hash2</key>
-			<data>
-			MIfi8RAqEKy3Y6Z3dk+bL2jT/HXrMx2TCslm29vJDRs=
 			</data>
 		</dict>
 		<key>Headers/WPPopView.h</key>
