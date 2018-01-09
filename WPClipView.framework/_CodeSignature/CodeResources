@@ -12,6 +12,10 @@
 		<data>
 		8TlaKgU9BfKugNdH2IvG2GUbJR4=
 		</data>
+		<key>Headers/WPPointView.h</key>
+		<data>
+		6Y8g8tfkcZgLVLonu/Qew9sJK24=
+		</data>
 		<key>Headers/WPPopView.h</key>
 		<data>
 		dCNu9e4A5u4DAYOCdDZ5jpTs4fI=
@@ -43,6 +47,17 @@
 			<key>hash2</key>
 			<data>
 			UiKq+F1UizBBnJIN62QK5vwWUMdZa8xbrK+xfLTJFTU=
+			</data>
+		</dict>
+		<key>Headers/WPPointView.h</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			6Y8g8tfkcZgLVLonu/Qew9sJK24=
+			</data>
+			<key>hash2</key>
+			<data>
+			MIfi8RAqEKy3Y6Z3dk+bL2jT/HXrMx2TCslm29vJDRs=
 			</data>
 		</dict>
 		<key>Headers/WPPopView.h</key>
