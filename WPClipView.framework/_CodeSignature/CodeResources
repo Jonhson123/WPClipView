@@ -10,15 +10,15 @@
 		</data>
 		<key>Headers/WPClipView.h</key>
 		<data>
-		8TlaKgU9BfKugNdH2IvG2GUbJR4=
+		KqxpY+zqVfgtqPQHyP7eTW6ebC8=
 		</data>
 		<key>Headers/WPPointView.h</key>
 		<data>
-		6Y8g8tfkcZgLVLonu/Qew9sJK24=
+		H7CW2GO5Oebc+VtQWrodJtxQxug=
 		</data>
 		<key>Headers/WPPopView.h</key>
 		<data>
-		dCNu9e4A5u4DAYOCdDZ5jpTs4fI=
+		+smYfQCJ0yRUHvqKVQQqYwmDQ1Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -42,33 +42,33 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8TlaKgU9BfKugNdH2IvG2GUbJR4=
+			KqxpY+zqVfgtqPQHyP7eTW6ebC8=
 			</data>
 			<key>hash2</key>
 			<data>
-			UiKq+F1UizBBnJIN62QK5vwWUMdZa8xbrK+xfLTJFTU=
+			6eVodm4iO3UHm6vxa5CpYV4GuO9aKPiE8xtUXwgQTrc=
 			</data>
 		</dict>
 		<key>Headers/WPPointView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			6Y8g8tfkcZgLVLonu/Qew9sJK24=
+			H7CW2GO5Oebc+VtQWrodJtxQxug=
 			</data>
 			<key>hash2</key>
 			<data>
-			MIfi8RAqEKy3Y6Z3dk+bL2jT/HXrMx2TCslm29vJDRs=
+			zDjV4SgODiYyvP8Bk+G8VFjiuoAZB+TFP5/Fu7sLQ+E=
 			</data>
 		</dict>
 		<key>Headers/WPPopView.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			dCNu9e4A5u4DAYOCdDZ5jpTs4fI=
+			+smYfQCJ0yRUHvqKVQQqYwmDQ1Y=
 			</data>
 			<key>hash2</key>
 			<data>
-			nSvkyHm+U1AF+hYGAJM/FOOYAnEih+huVWYfuEMF3Rk=
+			DDh7cGohyUXA0ozPA8/HqoWgEhLKxzi4riXWKzCh5i4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
