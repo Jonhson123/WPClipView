@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'WPClipView'
-  s.version          = '1.1.7'
+  s.version          = '1.1.8'
   s.summary          = 'WPClipView'
   s.description      = 'a clip view for the image'
 
