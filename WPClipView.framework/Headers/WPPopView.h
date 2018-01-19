@@ -12,17 +12,17 @@
 
 @interface WPPopView : UIView
 
-@property (strong, nonatomic) UIImage *image;                                   //图片
+@property (strong, nonatomic) UIImage *image;
 
-@property (strong, nonatomic) NSArray *points;                                  //点集合
-@property (assign, nonatomic) CGFloat pointRadius;                              //点的视图半径
-@property (assign, nonatomic) CGFloat pointInnerRadius;                         //点的内圆半径
-@property (assign, nonatomic) CGFloat pointLineWidth;                           //点的线条宽度
-@property (strong, nonatomic) UIColor *pointLineColor;                          //点的线颜色
-@property (strong, nonatomic) UIColor *pointFillColor;                          //点的填充颜色
-@property (strong, nonatomic) UIColor *pointSelectedColor;                      //点选择时颜色
+@property (strong, nonatomic) NSArray *points;
+@property (assign, nonatomic) CGFloat pointRadius;
+@property (assign, nonatomic) CGFloat pointInnerRadius;
+@property (assign, nonatomic) CGFloat pointLineWidth;
+@property (strong, nonatomic) UIColor *pointLineColor;
+@property (strong, nonatomic) UIColor *pointFillColor;
+@property (strong, nonatomic) UIColor *pointSelectedColor;
 
-@property (nonatomic, copy) void(^pointSelected)(WPPointView *pointView);       //选中节点事件
+@property (nonatomic, copy) void(^pointSelected)(WPPointView *pointView);
 
 @end
 
